@@ -1,0 +1,1 @@
+gcloud compute ssh --zone "us-central1-c" "instance-20250313-214652" --project "brave-cistern-438110-n3"
